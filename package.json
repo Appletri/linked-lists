@@ -1,0 +1,24 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LinkedList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appletri/linked-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Appletri/linked-lists/issues"
+  },
+  "homepage": "https://github.com/Appletri/linked-lists#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.0",
+    "@babel/preset-env": "^7.19.0",
+    "babel-jest": "^29.0.2"
+  }
+}
