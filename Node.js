@@ -1,6 +1,6 @@
-function Node() {
+function Node(value) {
   return {
-    value: null,
+    value: value || null,
     nextNode: null,
     changeValue(newValue) {
       this.value = newValue
